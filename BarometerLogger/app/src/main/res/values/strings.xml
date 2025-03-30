@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Barometer Logger</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="notification_channel_name">Read Atmospheric Pressure</string>
+    <string name="notification_channel_description">Apps must display a notification when they read sensor data in the background. This is that notification.</string>
+    <string name="notification_title">Read Atmospheric Pressure</string>
+    <string name="start_mapping_session">Start Mapping Session</string>
+    <string name="cannot_map_err_no_gps">GPS not available - cannot start mapping pressure readings</string>
+    <string name="cannot_map_err_no_pressure_sensor">Atmospheric pressure sensor not available so cannot start mapping pressure readings</string>
+    <string name="mapping_in_progress">Mapping in progress…</string>
+    <string name="mapping_session_ended">Mapping Session Ended With %1$d Readings</string>
+    <string name="mapping_session_started">Mapping Session Started</string>
+    <string name="see_session_readings">See session readings</string>
+    <string name="delete_session_readings">Delete session readings</string>
+    <string name="show_daily_summaries">Show Daily Summaries</string>
+    <string name="show_sessions">Show Sessions</string>
+    <string name="save_previous_readings">Save previous readings</string>
+    <string name="save_cancelled">Save cancelled</string>
+    <string name="latest_reading">%1$dhPa %2$s</string>
+    <string name="date_from">Date from</string>
+    <string name="date_to">Date to</string>
+    <string name="export_previous_readings">Export previous readings</string>
+    <string name="file_saved">File saved</string>
+    <string name="error_saving_file">Error saving file</string>
+    <string name="cannot_copy_to_clipboard">Can\'t copy to clipboard</string>
+    <string name="copy_previous_readings_to_clipboard">Copy previous readings to clipboard</string>
+    <string name="include_csv_header_row_label">Include CSV header row</string>
+    <string name="export_previous_readings_title">Export previous readings as CSV</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+</resources>
